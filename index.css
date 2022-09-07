@@ -1,0 +1,128 @@
+body{
+    font-size: 18px;
+}
+.header{
+    height: 500px;
+    background-image: url('images/bg-header-desktop.png');
+    background-repeat: no-repeat;
+}
+.smadav{
+    justify-self: center;
+    margin-left: 600px;
+    height: 70px;
+    width: 70px;
+}
+h2{
+    justify-self: center;
+    margin-left: 500px;
+}
+.text{
+    justify-self: center;
+    margin-left: 400px;
+    width: 500px;
+    height: 50px;
+}
+
+.btn{
+    margin-left:450px ;
+    /* margin-top: 70px; */
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    background-color:  hsl(171, 66%, 44%);
+    color: #fff;
+    border: 0;
+    display: flex;
+  justify-content: center;
+    align-items: center
+}
+.cont{
+    display: flex;
+    margin-top: 50px;
+
+}
+.btn2{
+    margin-left: 100px;
+    margin-bottom:100px;
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    background-color:hsl(233, 100%, 69%);
+    color:#fff;
+    border: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.laptop{
+    display: flex;
+}
+.pic{
+    margin: 50px;
+    margin-left: -50px;
+}
+.laptopsub{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    width: 300px;
+    height: 500px;
+    margin-left: 10px;
+}
+.text2{
+    justify-self: center;
+    margin-left: 450px;
+    height: 50px;
+    width: 450px;
+}
+.ios{
+    display: flex;
+    justify-content: center;
+margin-left: -30px;
+margin-bottom:100px;
+    }
+    .preveiw{
+        display: flex;
+    }
+.content{
+width: 200px;
+margin-left: 200px;
+}
+.icon{
+    display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+h1{
+   margin-left: 400px;
+}
+.brands{
+    display: flex;
+    background-color: hsl(201, 11%, 66%);
+    height: 130px;
+    align-items: center;
+    justify-content: space-around;
+}
+img
+{
+    width: 50px;
+height: 50px;
+
+}.link{
+    display: flex;
+    margin-top: 50px;
+}
+.mg{
+    display: flex;
+    margin-top: 30px;
+}
+.hi{
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
+.hide{
+    width: 200px;
+    height: 130px;
+}
