@@ -1,3 +1,7 @@
+*{
+    padding: 0;
+    margin: 0;
+}
 body{
     font-size: 18px;
 }
@@ -61,6 +65,14 @@ h2{
 .pic{
     margin: 50px;
     margin-left: -50px;
+    width: 500px;
+    height: 500px;
+}
+.pic2{
+    margin: 50px;
+    max-width: 700px;
+    max-height: 500px;
+    margin-left: -200px;
 }
 .laptopsub{
     display: flex;
@@ -91,7 +103,7 @@ margin-left: 200px;
 }
 .icon{
     display: flex;
-  justify-content: space-between;
+    justify-content: space-around;
   margin-bottom: 100px;
 }
 h1{
